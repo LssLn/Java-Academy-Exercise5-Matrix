@@ -1,0 +1,2 @@
+# Java-Academy-Exercise5-Matrix
+Scrivere un programma che, dopo aver creato un array multidimensionale quadrato (n n), venga riempito con numeri random da 0 a 100, e venga stampato. Fatto ciò scrivere dei metodi che mi permettano di:  Calcolare la somma di tutti i numeri dell’array; Calcolare la somma dei numeri sulla diagonale da sx verso dx; Calcolare la somma dei numeri sulla diagonale da dx verso sx.
